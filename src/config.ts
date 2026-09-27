@@ -1,0 +1,2 @@
+export const apiKey =
+  "sk-proj-FAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKE";
