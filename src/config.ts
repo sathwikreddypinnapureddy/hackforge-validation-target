@@ -1,2 +1,1 @@
-export const apiKey =
-  "sk-proj-FAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKE";
+export const apiKey = process.env.OPENAI_API_KEY ?? "";
